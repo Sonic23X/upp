@@ -1,0 +1,68 @@
+#tabs
+{
+  border-right: 1px solid;
+  border-right-color: rgb(221, 221, 221);
+  border-bottom: 1px solid;
+  border-bottom-color: rgb(221, 221, 221);
+  border-left: 1px solid;
+  border-left-color: rgb(221, 221, 221);
+}
+
+.tab_titulo
+{
+  font-size: xx-large;
+  font-weight: bold;
+}
+/* entradas */
+
+#banner
+{
+	padding-right: 0.5cm;
+  padding-left: 0.5cm;
+	width: 150px;
+	height: 100px;
+}
+
+#titulo
+{
+	color: rgb(105, 26, 156);
+	padding-right: 1cm;
+}
+
+#subtitulo
+{
+  border-bottom: 1px solid;
+  border-bottom-color: rgb(221, 221, 221);
+}
+
+#facebook, #youtube
+{
+  padding-left: 1cm;
+  padding-top: 0.2cm;
+  padding-right: 1cm;
+}
+
+#more
+{
+  padding-top: 0.5cm;
+}
+/* agenda */
+
+#number
+{
+	font-size: 40px;
+	color: rgb(105, 26, 156);
+	padding-right: 0.5cm;
+	border-right: 5px solid;
+	border-right-color: rgb(105, 26, 156);
+}
+#desc
+{
+	font-size: 20px;
+	color: rgb(105, 26, 156);
+	padding-left: 0.3cm;
+}
+
+#num{
+	padding-left: 1cm;
+}
