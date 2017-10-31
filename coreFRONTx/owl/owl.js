@@ -1,11 +1,9 @@
 $(document).ready(function() {
-  var owl = $('.owl-carousel');
-  owl.owlCarousel({
-    items: 4,
+  $('.owl-carousel').owlCarousel({
     loop: true,
+    margin:10,
     autoplay: true,
-    autoplayTimeout: 4000,
-    responsiveClass:true,
+    autoplayTimeout: 3000,
     responsive:{
         0:{
             items:1,
@@ -18,9 +16,8 @@ $(document).ready(function() {
         1000:{
             items:4,
             nav:true,
-            loop:false
         }
     }
 
-  });
+  })
 });

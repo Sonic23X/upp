@@ -24,8 +24,8 @@
     <link href="coreFRONTx/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!--owl carousel css-->
-    <link rel="stylesheet" href="coreFRONTx/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="coreFRONTx/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="coreFRONTx/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="coreFRONTx/owl/owl.theme.default.min.css">
 
     <!-- Custom styles for this template -->
     <link href="coreFRONTx/css/carousel.css" rel="stylesheet">
@@ -47,8 +47,8 @@
 
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
     <script src="coreFRONTx/js/holder.min.js"></script>
-    <script src="coreFRONTx/js/owl.carousel.min.js"></script>
-    <script src="coreFRONTx/js/owl.js"></script>
+    <script src="coreFRONTx/owl/owl.carousel.min.js"></script>
+    <script src="coreFRONTx/owl/owl.js"></script>
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="coreFRONTx/js/ie10-viewport-bug-workaround.js"></script>
